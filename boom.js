@@ -1,1 +1,1 @@
-alert('arg');
+alert('moo');
